@@ -6,15 +6,15 @@
 
 This project was built using:
 
-VsCode
-React.js
-Node.js
-Express.js
-CSS
-axios
-react dom
-react typing effect
-react bootstrap
+* VsCode
+* React.js
+* Node.js
+* Express.js
+* CSS
+* axios
+* react dom
+* react typing effect
+* react bootstrap
 
 ## How to start this project
 * open terminal
